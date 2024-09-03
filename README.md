@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m a Backend Software Engineer specialized in Java and Spring Boot<br>🌱 I have experience working on microservices architectures and I enjoy designing and implementing modular, high-performance services<br>⚡ I believe in continuous learning and staying updated with the latest technologies and best practices
+🔭 I’m a Backend Software Engineer specialized in Java and Spring Boot<br>🌱 I have experience working on microservices architectures and I enjoy designing and implementing high-performance services<br>⚡ I believe in continuous learning and staying updated with the latest technologies and best practices
 
 
 ## 🌐 Socials:
